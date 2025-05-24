@@ -1,0 +1,3 @@
+child (pid: 49186)
+x = 100
+waitrc = -1

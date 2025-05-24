@@ -1,0 +1,6 @@
+child (pid: 48564)
+x = 100
+waitrc = -1
+parent of 48564 (pid: 48563)
+x = 120
+waitrc = 48564
